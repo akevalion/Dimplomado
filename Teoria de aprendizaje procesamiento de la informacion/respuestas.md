@@ -5,7 +5,6 @@
 - el conductistas estudiaban solo lo que se podia observar
 - es decir el cerebro era una caja negra
 - esa caja negra tiene una accion y reaccion
-
 - en la decada de los 50 aparecio aparecieron los ordenadores
 - compara el cerebro con un procesador
 
