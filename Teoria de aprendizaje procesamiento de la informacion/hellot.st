@@ -1,2 +1,1 @@
-| hello |
-12 factorial
+5 factorial
