@@ -85,6 +85,8 @@ El estudiante asume un papel activo en el proceso de aprendizaje, a partir de la
 
 ## Conclusion
 
+En resumen, el método de Kolb es importante para el aprendizaje significativo y el pensamiento crítico porque permite a los estudiantes comprender y aplicar la información de manera más profunda y significativa.
+El estudiante aprende de manera Activa y el docente pasa a ser un facilitador.
 
 ## Bibliografia
 
