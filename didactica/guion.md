@@ -36,8 +36,7 @@ y, además, les ayudar a potenciar las fases con los que se encuentran menos có
 ## Pasos
 
 ### Fase I: Experienciación o Experiencia Concreta (EC)
-Es una fase donde se entrar en primer contacto con alguna experiencia propia relacionada con la
-competencia, para que los estudiantes comprendan la importancia y la necesidad de lograr el desempeño,
+Es una fase donde se entrar en primer contacto con alguna experiencia propia relacionada con la competencia, para que los estudiantes comprendan la importancia y la necesidad de lograr el desempeño,
 puedan asumir el reto y compromiso de lograrlo.
 ### Fase II: Observación Reflexiva (OR)
 Los estudiantes deben observar actividades y problemas del contexto (ejemplos) de situaciones de
@@ -56,15 +55,13 @@ teorías, realizando actividades y resolviendo problemas en casos o situaciones 
 
 1. Completar el Ciclo de aprendizaje
 Se llega a todas las personas a pesar de diferir en su estilo de aprendizaje preferido
-Permite que los estudiantes a ser mas flexibles a la variedad de demandas en situaciones de aprendizaje
-Sensibilizar a los estudiantes sobre enfoques alternativos.
-2.  Diferentes etapas estan asociadas con diferentes estilos de aprendizaje
-Perks
+2. Permite que los estudiantes a ser mas flexibles a la variedad de demandas en situaciones de aprendizaje
+3. Sensibilizar a los estudiantes sobre enfoques alternativos.
+4. Diferentes etapas estan asociadas con diferentes estilos de aprendizaje
 Esto permite adaptaciones para todos los alumnos, sin importar sus preferencias de aprendizaje o antecedentes.
-El aprendizaje en grupo es particularmente exitoso si los grupos constan de diferentes estilos de aprendizaje.
-3. El estudiante descubre sus gustos y disgustos
-
-4. El estudiante como el profesor perciben que existen otros estilos de aprendizaje
+5. El aprendizaje en grupo es particularmente exitoso si los grupos constan de diferentes estilos de aprendizaje.
+6. El estudiante descubre sus gustos y disgustos
+7. El estudiante como el profesor perciben que existen otros estilos de aprendizaje
 
 ## Desventajas
 
@@ -81,7 +78,7 @@ El instructor debe tener en cuenta que el objetivo principal en la enseñanza de
 
 ## Rol del estudiante
 
-El estudiante asume un papel activo en el proceso de aprendizaje, a partir de las cuatro capacidades básicas que desarrolla un individuo, en mayor o en menor grado. Considerando el valor de esta temática, se motivó la investigación acerca del estilo de aprendizaje que prefieren los estudiantes en un ambiente cien por ciento virtual. A continuación se ofrece una breve descripción de los modelos de estilos de aprendizaje e inventarios actuales más importantes que existen en la literatura especiali
+El estudiante asume un papel activo en el proceso de aprendizaje, a partir de las cuatro capacidades básicas que desarrolla un individuo, en mayor o en menor grado. Considerando el valor de esta temática, se motivó la investigación acerca del estilo de aprendizaje que prefieren los estudiantes en un ambiente cien por ciento virtual.
 
 ## Conclusion
 
