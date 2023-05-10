@@ -1,3 +1,12 @@
-### Ideas para
-- hacer el comando grep, tail
+### Ideas para intro a la progra
+
+- mostrar los numeros de n a 0.
+- programa el cuadrado de un numero
+- mostrar los cuadrados de n a 0
+- girar una matrix
+- clase coche
+- sumatoria
+
 - ejercicios de numeros primos, palindromos, perfecto, fibonacci
+- buscar y ordenar
+- hacer el comando grep, tail
