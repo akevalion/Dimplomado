@@ -6,7 +6,7 @@
 - girar una matrix
 - clase coche
 - sumatoria
-
+- encriptacion basica de strings.
 - ejercicios de numeros primos, palindromos, perfecto, fibonacci
 - buscar y ordenar
 - hacer el comando grep, tail
