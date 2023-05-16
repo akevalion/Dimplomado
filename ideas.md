@@ -12,4 +12,5 @@
 - hacer el comando grep, tail
 - motivar a los estudiantes
 - buscar algo que les guste que lo puedan relacionar
-- en cada clase debe de existir un calentamiento para que los estudiantes bombeen sangre a la cabeza para resolver los posibles problemas
+- en cada clase debe de existir un calentamiento para que los estudiantes bombeen sangre a la cabeza para resolver los posibles problemas.
+- Ensenia poco y ensenia bien
