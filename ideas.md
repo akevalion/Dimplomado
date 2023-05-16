@@ -10,3 +10,5 @@
 - ejercicios de numeros primos, palindromos, perfecto, fibonacci
 - buscar y ordenar
 - hacer el comando grep, tail
+- motivar a los estudiantes
+- buscar algo que les guste que lo puedan relacionar
