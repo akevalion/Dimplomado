@@ -14,4 +14,5 @@
 - buscar algo que les guste que lo puedan relacionar
 - en cada clase debe de existir un calentamiento para que los estudiantes bombeen sangre a la cabeza para resolver los posibles problemas.
 - Ensenia poco y ensenia bien
-- programa de sopa de letras para encontras las palabras por mi cuenta
+- programa de sopa de letras para encontras las palabras por mi cuenta.
+- clasificar una edad, para video juegos
