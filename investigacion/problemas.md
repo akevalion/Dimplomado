@@ -7,12 +7,12 @@
 - Mollericona Chambi Juan
 
 # Pregunta
--  Cómo se incorpora la inteligencia artificial en la presentación de trabajos escritos en la carrera de Antropologia de la Universidad Católica Boliviana?
+-  Cómo se utiliza la inteligencia artificial produccion de trabajos escritos en la carrera de Antropologia de la Universidad Católica Boliviana?
 
 # Objetivo General
 - Determinar la incorporacion de la inteligencia artificial en la presentación de trabajosescritos en la carrera de Antropologia de la Universidad Católica Boliviana.
 
 # Objetivo Especificos
-- Conocer cómo los docentes incorporan la planificación de la inteligencia artificial en la materia.
-- Identificar qué ocurre en la realidad del aula.
-- Determinar qué piensan los estudiantes sobre eso.
+- Determinar la planificación de la inteligencia artificial en la materia X.(Que materia usamos?)
+- Identificar las actividades en el aula que hacen uso de la inteligencia artificial en la materia X.
+- Determinar la opinión los estudiantes sobre la aplicacion de la inteligencia artificial en las actividades del aula de la materia X.
