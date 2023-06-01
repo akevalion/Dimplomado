@@ -2,7 +2,7 @@
 - Mamani Torres Milton
 - Mendez Hinojosa Carla Cecilia
 - Mercado Adhemar
-- Mercado Vergas Bernardo Leon
+- Mercado Vargas Bernardo Leon
 - Miranda Pozo Alexandra
 - Mollericona Chambi Juan
 
