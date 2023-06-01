@@ -7,7 +7,7 @@
 - Mollericona Chambi Juan
 
 # Pregunta
--  Cómo se utiliza la inteligencia artificial produccion de trabajos escritos en la carrera de Antropologia de la Universidad Católica Boliviana?
+-  Cómo se utiliza la inteligencia artificial producción de trabajos escritos en la carrera de Antropología de la Universidad Católica Boliviana?
 
 # Objetivo General
 - Determinar la incorporacion de la inteligencia artificial en la presentación de trabajosescritos en la carrera de Antropologia de la Universidad Católica Boliviana.
