@@ -7,12 +7,13 @@
 - Mollericona Chambi Juan
 
 # Pregunta
--  Cómo se utiliza la inteligencia artificial producción de trabajos escritos en la carrera de Antropología de la Universidad Católica Boliviana?
+- ¿Cómo se utiliza la inteligencia artificial en la elaboración de trabajos en la carrera en la  carrera  de Filosofía materias de Filosofía de la Educación y Epistemología de la Universidad Católica Boliviana gestión 2-2023?
 
 # Objetivo General
-- Determinar la incorporacion de la inteligencia artificial en la presentación de trabajosescritos en la carrera de Antropologia de la Universidad Católica Boliviana.
+- Determinar la incorporación de la inteligencia artificial en la elaboración de trabajos en la  carrera  de Filosofía materias de Filosofía de la Educación y Epistemología de la Universidad Católica Boliviana gestión 2-2023.
+
 
 # Objetivo Especificos
-- Determinar la planificación de la inteligencia artificial en la materia X.(Que materia usamos?)
-- Identificar las actividades en el aula que hacen uso de la inteligencia artificial en la materia X.
-- Determinar la opinión los estudiantes sobre la aplicacion de la inteligencia artificial en las actividades del aula de la materia X.
+- Conocer la planificación de la Inteligencia Artificial (IA)  en trabajos en la carrera de Filosofía materias de Filosofía de la Educación y Epistemología de la Universidad Católica Boliviana gestión 2-2023.
+- Identificar las actividades que hacen uso en el aula de la Inteligencia Artificial (IA) en la elaboración de trabajos en la  carrera  de Filosofía materias de Filosofía de la Educación y Epistemología de la Universidad Católica Boliviana gestión 2-2023.
+- Determinar la opinión de los estudiantes sobre la aplicación de la Inteligencia Artificial en la elaboración de sus trabajos en las materias de Filosofía de la Educación y Epistemología de la Universidad Católica Boliviana gestión 2-2023.
